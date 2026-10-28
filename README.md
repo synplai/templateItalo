@@ -26,7 +26,7 @@
 
 ## 📜 Descrição
 
-*Descreva seu projeto com base no texto do PBL (até 600 palavras)*
+*Descreva seu projeto com base no texto*
 
 
 ## 📁 Estrutura de pastas
