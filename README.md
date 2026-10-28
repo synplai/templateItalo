@@ -11,17 +11,17 @@
 ## Nome do grupo
 
 ## 👨‍🎓 Integrantes: 
-- <a href="https://www.linkedin.com/company/inova-fusca">Nome do integrante 1</a>
-- <a href="https://www.linkedin.com/company/inova-fusca">Nome do integrante 2</a>
-- <a href="https://www.linkedin.com/company/inova-fusca">Nome do integrante 3</a> 
-- <a href="https://www.linkedin.com/company/inova-fusca">Nome do integrante 4</a> 
-- <a href="https://www.linkedin.com/company/inova-fusca">Nome do integrante 5</a>
+- <a href="https://www.linkedin.com/feed/foryou/">Nome do integrante 1</a>
+- <a href="https://www.linkedin.com/feed/foryou/">Nome do integrante 2</a>
+- <a href="https://www.linkedin.com/feed/foryou/">Nome do integrante 3</a> 
+- <a href="https://www.linkedin.com/feed/foryou/">Nome do integrante 4</a> 
+- <a href="https://www.linkedin.com/feed/foryou/">Nome do integrante 5</a>
 
 ## 👩‍🏫 Professores:
 ### Professor(a) 
-- <a href="https://www.linkedin.com/company/inova-fusca">Nome do Professor</a>
+- <a href="https://www.linkedin.com/feed/foryou/">Nome do Professor</a>
 ### Coordenador(a)
-- <a href="https://www.linkedin.com/company/inova-fusca">Nome do Coordenador</a>
+- <a href="https://www.linkedin.com/feed/foryou/">Nome do Coordenador</a>
 
 
 ## 📜 Descrição
