@@ -7,26 +7,25 @@
 <br>
 
 # Nome do projeto
-
+E-SPORTS ARENA (Campeonato de Corrida)
 ## Nome do grupo
 
 ## 👨‍🎓 Integrantes: 
-- <a href="https://www.linkedin.com/feed/foryou/">Nome do integrante 1</a>
-- <a href="https://www.linkedin.com/feed/foryou/">Nome do integrante 2</a>
-- <a href="https://www.linkedin.com/feed/foryou/">Nome do integrante 3</a> 
-- <a href="https://www.linkedin.com/feed/foryou/">Nome do integrante 4</a> 
-- <a href="https://www.linkedin.com/feed/foryou/">Nome do integrante 5</a>
+- <a >Everton Pedro</a>
+- <a ">Icaro Nicolas</a>
+- <a href="https://www.linkedin.com/feed/foryou/">Janderson Alves</a> 
+- <a >Rafael Farias</a> 
 
 ## 👩‍🏫 Professores:
 ### Professor(a) 
-- <a href="https://www.linkedin.com/feed/foryou/">Nome do Professor</a>
-### Coordenador(a)
-- <a href="https://www.linkedin.com/feed/foryou/">Nome do Coordenador</a>
+- <a href="https://www.linkedin.com/feed/foryou/">Lucas Gomes Moreira</a>
+ <a href="https://www.linkedin.com/feed/foryou/">Paulo Sérgio Pádua de Lacerda</a>
+  <a href="https://www.linkedin.com/feed/foryou/">Rodinei Cesar Pontelli</a>
 
 
 ## 📜 Descrição
 
-*Descreva seu projeto*
+O projeto do curso de Análise e Desenvolvimento de Sistemas foi feito com o objetivo de promover uma competição amigável sobre o tema de "E-SPORTS ARENA CHALLENGE" com a criação de um software utilizando o programa VisualG como base para o código principal do projeto.
 
 
 ## 📁 Estrutura de pastas
